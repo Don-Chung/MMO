@@ -1,0 +1,8 @@
+D:\Tools\phpserver\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\ARPGServer\bin\ARPGServer.dll
+D:\Tools\phpserver\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\ARPGServer\bin\ARPGServer.pdb
+D:\Tools\phpserver\photoWorkSpace\ARPGServer\ARPGServer\obj\Debug\ARPGServer.csproj.AssemblyReference.cache
+D:\Tools\phpserver\photoWorkSpace\ARPGServer\ARPGServer\obj\Debug\ARPGServer.csproj.CoreCompileInputs.cache
+D:\Tools\phpserver\photoWorkSpace\ARPGServer\ARPGServer\obj\Debug\ARPGServer.csproj.CopyComplete
+D:\Tools\phpserver\photoWorkSpace\ARPGServer\ARPGServer\obj\Debug\ARPGServer.dll
+D:\Tools\phpserver\photoWorkSpace\ARPGServer\ARPGServer\obj\Debug\ARPGServer.pdb
+D:\Tools\phpserver\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\ARPGServer\bin\log4net.config

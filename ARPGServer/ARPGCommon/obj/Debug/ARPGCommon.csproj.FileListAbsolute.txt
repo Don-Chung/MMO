@@ -1,0 +1,8 @@
+D:\Tools\phpserver\photoWorkSpace\ARPGServer\ARPGCommon\bin\Debug\ARPGCommon.dll
+D:\Tools\phpserver\photoWorkSpace\ARPGServer\ARPGCommon\bin\Debug\ARPGCommon.pdb
+D:\Tools\phpserver\photoWorkSpace\ARPGServer\ARPGCommon\obj\Debug\ARPGCommon.csproj.AssemblyReference.cache
+D:\Tools\phpserver\photoWorkSpace\ARPGServer\ARPGCommon\obj\Debug\ARPGCommon.csproj.CoreCompileInputs.cache
+D:\Tools\phpserver\photoWorkSpace\ARPGServer\ARPGCommon\obj\Debug\ARPGCommon.dll
+D:\Tools\phpserver\photoWorkSpace\ARPGServer\ARPGCommon\obj\Debug\ARPGCommon.pdb
+D:\Tools\phpserver\photoWorkSpace\ARPGServer\ARPGCommon\bin\Debug\LitJson.dll
+D:\Tools\phpserver\photoWorkSpace\ARPGServer\ARPGCommon\obj\Debug\ARPGCommon.csproj.CopyComplete
